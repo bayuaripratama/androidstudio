@@ -1,7 +1,7 @@
 <?php
 $host = "localhost"; // Nama hostnya
-$username = "root"; // Username
-$password = ""; // Password (Isi jika menggunakan password)
+$username = "bayu"; // Username
+$password = "03061999"; // Password (Isi jika menggunakan password)
 $database = "database_mahasiswa"; // Nama databasenya
 $connect = mysqli_connect($host, $username, $password, $database); // Koneksi ke MySQL
 ?>
